@@ -2,27 +2,25 @@
 
 ## About me
 - 🎓 Studying Software engineering
-- 🤓 Mainly self taught and passionate about technology since my childhood.
+- 🤓 Mainly self taught and passionate about technology since my childhood
 -  My core language is [Swift](https://docs.swift.org/swift-book/) and I use it to make apps for  devices and CLI for linux/macOS
 - 🌱 Currently learning Java, Python, C, Solidity
 - ⏩ I plan to learn next: C++, Kotlin, Swift (server-side)
 - 🤩 Enthusiast about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), [blockchain](https://wikipedia.org/wiki/Blockchain), AI and many others innovative technologies
-- 🧹Advocate clean and easy to maintain code.
+- 🧹Advocate clean and easy to maintain code
 
 <details open>
 <summary>Verbose presentation?</summary>
 <br>
-I'm a Belgian self taught and passionate about technology since my childhood.\
+I'm a Belgian self taught and passionate about technology since my childhood.<br>
 Aspiring mobile developer, I like to make intuitive apps.
-I advocate clean and easy to maintain code.
-\
-I love to create, and enjoy experimenting with emerging technologies such as blockchain, AI etc ...
-\
-My core language is Swift and I use it to make apps for  Apple devices and CLI for linux/macOS\
+I advocate clean and easy to maintain code.<br>
+I love to create, and enjoy experimenting with emerging technologies such as blockchain, AI etc ...<br>
+My core language is Swift and I use it to make apps for  Apple devices and CLI for Linux/macOS.<br>
 I'm currently learning: Java, Python, C, Solidity
-I plan to learn next: C++, Kotlin, Swift (server-side)\
-I use as much as possible free and open source software and plan to contribute soon.\
-In my spare time I like reading/writing about tech (mainly dev, infosec and crypto), playing videos games 🕹 and sometimes chess ♟.\
+I plan to learn next: C++, Kotlin, Swift (server-side).<br>
+I use as much as possible free and open source software and plan to contribute soon.<br>
+In my spare time I like reading/writing about tech (mainly dev, infosec and crypto), playing videos games 🕹 and sometimes chess ♟.<br>
 
 #### Education:
 
