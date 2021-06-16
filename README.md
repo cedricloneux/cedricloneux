@@ -9,7 +9,7 @@
 - 🤩 Enthusiast about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), [blockchain](https://wikipedia.org/wiki/Blockchain), AI and many others innovative technologies
 - 🧹Advocate clean and easy to maintain code
 
-<details open>
+<details close>
 <summary>Verbose presentation?</summary>
 <br>
 I'm a Belgian self taught and passionate about technology since my childhood.<br>
