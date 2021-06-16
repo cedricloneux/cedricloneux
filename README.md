@@ -20,7 +20,7 @@ My core language is Swift and I use it to make apps for  Apple devices and CL
 I'm currently learning: Java, Python, C, Solidity
 I plan to learn next: C++, Kotlin, Swift (server-side).<br>
 I use as much as possible free and open source software and plan to contribute soon.<br>
-In my spare time I like reading/writing about tech (mainly dev, infosec and crypto), playing videos games 🕹 and sometimes chess ♟.<br>
+In my spare time I like coding, reading about tech (mainly dev, infosec & crypto), watching videos, playing videos games 🕹 and sometimes chess ♟.<br>
 
 #### Education:
 
