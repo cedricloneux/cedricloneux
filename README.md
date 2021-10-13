@@ -17,7 +17,7 @@ Aspiring mobile developer, I like to make intuitive apps.
 I advocate clean and easy to maintain code.<br>
 I love to create, and enjoy experimenting with emerging technologies such as blockchain, AI etc ...<br>
 My core language is Swift and I use it to make apps for  Apple devices and CLI for Linux/macOS.<br>
-I'm currently learning: Java, C, Solidity and I plan to learn next: C++, Kotlin, Swift (server-side).<br>
+I'm currently learning: C++, Solidity and I plan to learn next: Kotlin, Swift (server-side).<br>
 I use as much as possible free and open source software and plan to contribute soon.<br>
 In my spare time I like coding, reading about tech (mainly dev, infosec & crypto), watching videos, playing videos games 🕹 and sometimes chess ♟.<br>
 
@@ -27,8 +27,8 @@ In my spare time I like coding, reading about tech (mainly dev, infosec & crypto
 In high school I entered computer science where I learned the basics of programming, hardware and to be standalone. I did my first internship where I mostly did maintenance.
 
 ##### Bachelor (IT Management):
-After that I started a bachelor degree where I have consolidated my knowledge and learned new stuff such as:
-Java, C, UML, team work (scrum method), a bit of AI (numpy, scikitlearn, pandas, matplotlib)
+After that I started a bachelor degree where I have consolidated my knowledge and worked with stuff such as:
+Java, C, C++, UML, team work (scrum method), a bit of AI (numpy, scikitlearn, pandas, matplotlib)
 </details>
 
 
@@ -52,12 +52,12 @@ Java, C, UML, team work (scrum method), a bit of AI (numpy, scikitlearn, pandas,
 <br>
 [![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)](https://www.java.com)
 [![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)](https://en.cppreference.com/w/c/language)
+[![C++](https://img.shields.io/badge/-C++-194d89?style=flat&logo=c%2B%2B)](https://isocpp.org/)
 [![Pyhon](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)](https://www.python.org/)
 <br>
 [![MySQL](http://img.shields.io/badge/-MySQL-CC2927?style=flat&logo=mysql&logoColor=ffffff)](https://www.mysql.com)
 ### Beginner
 [![Solidity](https://img.shields.io/badge/-Solidity-grey?style=flat&logo=solidity)](https://docs.soliditylang.org/)
-[![C++](https://img.shields.io/badge/-C++-194d89?style=flat&logo=c%2B%2B)](https://isocpp.org/)
 
 ##  🤝🏻 Want to get in touch?
 
@@ -78,7 +78,7 @@ Java, C, UML, team work (scrum method), a bit of AI (numpy, scikitlearn, pandas,
 </code>
 <br>
 <div>
-	<img src="assets/btc.webp" width="20px">
+	<img src="assets/btc.webp" width="19px">
 	<code>1oneuXcEDtSygqL99c3Qw8QYu56YcC2DW</code>
 </div>
 
