@@ -1,13 +1,14 @@
 # Hi there, I'm Cédric Loneux 👨🏻‍💻<img src="assets/hello.webp" width="30px">
 
 ## About me
-- 🎓 Studying Software engineering
-- 🤓 Mainly self taught and passionate about technology since my childhood
--  My core language is [Swift](https://docs.swift.org/swift-book/) and I use it to make apps for  devices and CLI for linux/macOS
-- 🌱 Currently learning: Solidity, C++
-- ⏩	I plan to learn next: Kotlin, Swift (server-side)
-- 🤩 Enthusiast about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), [blockchain](https://wikipedia.org/wiki/Blockchain), AI and many others innovative technologies
-- 🧹Advocate clean and easy to maintain code
+<p>
+  🎓  &ensp; Studying Software engineering<br>
+  🤓  &ensp; Mainly self taught and passionate about technology since my childhood<br>
+   <img src="assets/aapl.webp" width="17px"> &ensp; My core language is <a href="https://docs.swift.org">Swift</a> and I use it to make apps for  devices and CLI for linux/macOS<br>
+  🌱 &ensp; Currently learning: Solidity, C++<br>
+  ⏩ &ensp; I plan to learn next: Kotlin, Swift (server-side)<br>
+  🤩 &ensp; Enthusiast about <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FOSS</a> and disruptive technologies such as <a href="https://wikipedia.org/wiki/Blockchain">blockchain</a> and AI
+</p>
 
 <details close>
 <summary>Verbose presentation?</summary>
@@ -27,7 +28,7 @@ In my spare time I like coding, reading about tech (mainly dev, infosec, crypto 
 In high school I entered computer science where I learned the basics of programming, hardware and to be standalone. I did my first internship where I mostly did maintenance (hardware & software).
 
 ##### Bachelor (IT Management):
-After that I started a bachelor degree where I have consolidated my knowledge (e.g. networking) and worked with stuff such as:
+After that I started a bachelor degree where I have consolidated my knowledge (e.g. networking, DP) and worked with stuff such as:
 Java, C, C++, a bit of AI (numpy, scikitlearn, pandas, matplotlib), multi-tier apps (Java EE), webdev (JS, PHP, Angular), UML.<br>
 Throughout the group work we worked with agile methodology (scrum framework).
 </details>
