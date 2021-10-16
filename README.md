@@ -4,8 +4,8 @@
 - 🎓 Studying Software engineering
 - 🤓 Mainly self taught and passionate about technology since my childhood
 -  My core language is [Swift](https://docs.swift.org/swift-book/) and I use it to make apps for  devices and CLI for linux/macOS
-- 🌱 Currently learning Solidity, C++
-- ⏩ I plan to learn next: Kotlin, Swift (server-side)
+- 🌱 Currently learning: Solidity, C++
+- ⏩	I plan to learn next: Kotlin, Swift (server-side)
 - 🤩 Enthusiast about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), [blockchain](https://wikipedia.org/wiki/Blockchain), AI and many others innovative technologies
 - 🧹Advocate clean and easy to maintain code
 
@@ -14,21 +14,22 @@
 <br>
 I'm a Belgian self taught and passionate about technology since my childhood.<br>
 Aspiring mobile developer, I like to make intuitive apps.
-I advocate clean and easy to maintain code.<br>
-I love to create, and enjoy experimenting with emerging technologies such as blockchain, AI etc ...<br>
+I advocate clean and easy to maintain/evolve code.<br>
+I love to create, and enjoy experimenting with emerging technologies such as blockchain.<br>
 My core language is Swift and I use it to make apps for  Apple devices and CLI for Linux/macOS.<br>
 I'm currently learning: C++, Solidity and I plan to learn next: Kotlin, Swift (server-side).<br>
 I use as much as possible free and open source software and plan to contribute soon.<br>
-In my spare time I like coding, reading about tech (mainly dev, infosec & crypto), watching videos, playing videos games 🕹 and sometimes chess ♟.<br>
+In my spare time I like coding, reading about tech (mainly dev, infosec, crypto & finance), watching videos, playing videos games 🕹 and sometimes chess ♟.<br>
 
 #### Education:
 
 ##### High school (IT Technician):
-In high school I entered computer science where I learned the basics of programming, hardware and to be standalone. I did my first internship where I mostly did maintenance.
+In high school I entered computer science where I learned the basics of programming, hardware and to be standalone. I did my first internship where I mostly did maintenance (hardware & software).
 
 ##### Bachelor (IT Management):
-After that I started a bachelor degree where I have consolidated my knowledge and worked with stuff such as:
-Java, C, C++, UML, team work (scrum method), a bit of AI (numpy, scikitlearn, pandas, matplotlib)
+After that I started a bachelor degree where I have consolidated my knowledge (e.g. networking) and worked with stuff such as:
+Java, C, C++, a bit of AI (numpy, scikitlearn, pandas, matplotlib), multi-tier apps (Java EE), webdev (JS, PHP, Angular), UML.<br>
+Throughout the group work we worked with agile methodology (scrum framework).
 </details>
 
 
@@ -49,6 +50,7 @@ Java, C, C++, UML, team work (scrum method), a bit of AI (numpy, scikitlearn, pa
 [![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C)](https://developer.mozilla.org/en/JavaScript)
 [![php](https://img.shields.io/badge/-PHP-7377ae?style=flat&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![angular](https://img.shields.io/badge/-Angular-B32535?style=flat&logo=angular&logoColor=ffffff)](https://angular.io/)
 <br>
 [![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)](https://www.java.com)
 [![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)](https://en.cppreference.com/w/c/language)
@@ -78,8 +80,6 @@ Java, C, C++, UML, team work (scrum method), a bit of AI (numpy, scikitlearn, pa
 </code>
 <br>
 <div>
-	<img src="assets/btc.webp" width="19px">
+	<img src="assets/btc.webp" width="20px">
 	<code>1oneuXcEDtSygqL99c3Qw8QYu56YcC2DW</code>
 </div>
-
-</code>
