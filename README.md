@@ -57,8 +57,13 @@ Throughout the group work we worked with agile methodology (scrum framework).
 [![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)](https://en.cppreference.com/w/c/language)
 [![C++](https://img.shields.io/badge/-C++-194d89?style=flat&logo=c%2B%2B)](https://isocpp.org/)
 [![Pyhon](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)](https://www.python.org/)
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET)](https://dot.net/)
+[![csharp](https://img.shields.io/badge/-239120?style=flat&logo=csharp)]()
 <br>
 [![MySQL](http://img.shields.io/badge/-MySQL-CC2927?style=flat&logo=mysql&logoColor=ffffff)](https://www.mysql.com)
+[![nodejs](https://img.shields.io/badge/-NodeJS-white?style=flat&logo=nodedotjs)](https://nodejs.org)
+[![microsoftsqlserver](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver)](https://www.microsoft.com/sql-server)
+
 ### Beginner
 [![Solidity](https://img.shields.io/badge/-Solidity-grey?style=flat&logo=solidity)](https://docs.soliditylang.org/)
 
