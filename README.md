@@ -78,14 +78,19 @@ Throughout the group work we worked with agile methodology (scrum framework).
 
 <hr>
 
+<h4>PGP fingerprint:</h4>
 <code>
-	PGP fingerprint:
 	<a href="https://www.cedricloneux.me/doc/cedricloneux_pub.pgp">
 	 5967 F2AB E482 6F14 67BB  3F34 E292 4A27 EBE2 37E2
 	</a>
 </code>
 <br>
-<div>
-	<img src="assets/btc.webp" width="20px">
-	<code>1oneuXcEDtSygqL99c3Qw8QYu56YcC2DW</code>
-</div>
+
+<h4>
+  <img src="assets/btc.webp" style="font-size: 450%" width="18px">
+  BTC:
+</h4>
+
+```
+1oneuXcEDtSygqL99c3Qw8QYu56YcC2DW
+```
