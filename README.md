@@ -2,8 +2,7 @@
 
 ## About me
 <p>
-  🎓  &ensp; Studying Software engineering<br>
-  🤓  &ensp; Mainly self taught and passionate about technology since my childhood<br>
+  🎓  &ensp; Software engineering student & self-taught<br>
    <img src="assets/aapl.webp" width="17px"> &ensp; My core language is <a href="https://docs.swift.org">Swift</a> and I use it to make native apps for  devices and CLI for linux/macOS<br>
   🌱 &ensp; Currently learning: Kotlin, Solidity<br>
   ⏩ &ensp; I plan to learn next: React, Swift (server-side)<br>
@@ -13,14 +12,15 @@
 <details close>
 <summary>Verbose presentation?</summary>
 <br>
-I'm a ₿elgian self taught and passionate about technology since my childhood.<br>
+I'm a ₿elgian student & self-taught and passionate about technology since my childhood.<br>
 Aspiring mobile developer, I like to make intuitive apps.
 I advocate clean and easy to maintain/evolve code.<br>
 I love to create, and enjoy experimenting with emerging technologies such as blockchain.<br>
 My core language is Swift and I use it to make native apps for  Apple devices and CLI for Linux/macOS.<br>
 I'm currently learning: Kotlin, Solidity and I plan to learn next: React, Swift (server-side).<br>
+Very regarding about security and privacy, I advocate self-hosting and decentralization.
 I use as much as possible free and open source software and plan to contribute soon.<br>
-In my spare time I like coding my own projects, reading about tech (mainly dev, infosec, crypto & finance), watching videos, gaming 🕹 and sometimes chess ♟. I also love animals 🐇, cinema 🍿, astronomy 🚀, finance 📈 and travels 🛫<br>
+In my spare time I like coding my own projects, reading about tech (mainly dev, infosec, crypto & finance), watching videos ▶️, gaming 🕹 and sometimes chess ♟. I also love animals 🐇, cinema 🍿, astronomy 🚀, finance 📈 and travels 🛫<br>
 
 #### Education:
 
