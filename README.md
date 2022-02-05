@@ -4,23 +4,23 @@
 <p>
   🎓  &ensp; Studying Software engineering<br>
   🤓  &ensp; Mainly self taught and passionate about technology since my childhood<br>
-   <img src="assets/aapl.webp" width="17px"> &ensp; My core language is <a href="https://docs.swift.org">Swift</a> and I use it to make apps for  devices and CLI for linux/macOS<br>
-  🌱 &ensp; Currently learning: Solidity, C++<br>
-  ⏩ &ensp; I plan to learn next: Kotlin, Swift (server-side)<br>
+   <img src="assets/aapl.webp" width="17px"> &ensp; My core language is <a href="https://docs.swift.org">Swift</a> and I use it to make native apps for  devices and CLI for linux/macOS<br>
+  🌱 &ensp; Currently learning: Kotlin, Solidity<br>
+  ⏩ &ensp; I plan to learn next: React, Swift (server-side)<br>
   🤩 &ensp; Enthusiast about <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FOSS</a> and disruptive technologies such as <a href="https://wikipedia.org/wiki/Blockchain">blockchain</a> and AI
 </p>
 
 <details close>
 <summary>Verbose presentation?</summary>
 <br>
-I'm a Belgian self taught and passionate about technology since my childhood.<br>
+I'm a ₿elgian self taught and passionate about technology since my childhood.<br>
 Aspiring mobile developer, I like to make intuitive apps.
 I advocate clean and easy to maintain/evolve code.<br>
 I love to create, and enjoy experimenting with emerging technologies such as blockchain.<br>
-My core language is Swift and I use it to make apps for  Apple devices and CLI for Linux/macOS.<br>
-I'm currently learning: C++, Solidity and I plan to learn next: Kotlin, Swift (server-side).<br>
+My core language is Swift and I use it to make native apps for  Apple devices and CLI for Linux/macOS.<br>
+I'm currently learning: Kotlin, Solidity and I plan to learn next: React, Swift (server-side).<br>
 I use as much as possible free and open source software and plan to contribute soon.<br>
-In my spare time I like coding, reading about tech (mainly dev, infosec, crypto & finance), watching videos, playing videos games 🕹 and sometimes chess ♟.<br>
+In my spare time I like coding my own projects, reading about tech (mainly dev, infosec, crypto & finance), watching videos, gaming 🕹 and sometimes chess ♟. I also love animals 🐇, cinema 🍿, astronomy 🚀, finance 📈 and travels 🛫<br>
 
 #### Education:
 
@@ -36,12 +36,13 @@ Throughout the group work we worked with agile methodology (scrum framework).
 
 ## 🪛 Tech Stack
 ### Pro
-[![Swift](https://img.shields.io/badge/Swift-informational?logo=swift&style=flat&color=grey)](https://docs.swift.org/swift-book/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff&link=https://git-scm.com/)](https://git-scm.com/)
+[![Swift](https://img.shields.io/badge/-Swift-%23F7DF1C?style=flat&logo=swift&labelColor=%23F7DF1C)](https://docs.swift.org)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 [![XCode](https://img.shields.io/badge/-XCode-1a8bed?style=flat&logo=XCode&logoColor=ffffff)](https://developer.apple.com/xcode/)
+[![XCode](https://img.shields.io/badge/-Android_studio-48E29B?style=flat&logo=androidStudio&logoColor=ffffff)](https://developer.android.com/studio)
 [![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![VS Code](http://img.shields.io/badge/-VS%20Code-2363d5?style=flat&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![VSCode](http://img.shields.io/badge/-VS%20Code-2363d5?style=flat&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![macOS](http://img.shields.io/badge/-macOS-ff0044?style=flat&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
 [![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/)
@@ -61,11 +62,12 @@ Throughout the group work we worked with agile methodology (scrum framework).
 [![csharp](https://img.shields.io/badge/-239120?style=flat&logo=csharp)]()
 <br>
 [![MySQL](http://img.shields.io/badge/-MySQL-CC2927?style=flat&logo=mysql&logoColor=ffffff)](https://www.mysql.com)
-[![nodejs](https://img.shields.io/badge/-NodeJS-white?style=flat&logo=nodedotjs)](https://nodejs.org)
 [![microsoftsqlserver](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver)](https://www.microsoft.com/sql-server)
 
 ### Beginner
+[![Kotlin](https://img.shields.io/badge/-Kotlin-FA8B0C?style=flat&logo=kotlin)](https://kotlinlang.org/)
 [![Solidity](https://img.shields.io/badge/-Solidity-grey?style=flat&logo=solidity)](https://docs.soliditylang.org/)
+
 
 ##  🤝🏻 Want to get in touch?
 
@@ -88,7 +90,7 @@ Throughout the group work we worked with agile methodology (scrum framework).
 
 <h4>
   <img src="assets/btc.webp" style="font-size: 450%" width="18px">
-  BTC:
+  ₿TC:
 </h4>
 
 ```
