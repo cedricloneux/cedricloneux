@@ -4,7 +4,7 @@
 <p>
   🎓  &ensp; Software engineering student & self-taught<br>
    <img src="assets/aapl.webp" width="17px"> &ensp; My core language is <a href="https://docs.swift.org">Swift</a> and I use it to make native apps for  devices and CLI for linux/macOS<br>
-  🌱 &ensp; Currently learning: Kotlin, Solidity<br>
+  🌱 &ensp; Currently learning: Golang, Solidity, cybersecurity stuff<br>
   ⏩ &ensp; I plan to learn next: React, Swift (server-side)<br>
   🤩 &ensp; Enthusiast about <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FOSS</a> and disruptive technologies such as <a href="https://wikipedia.org/wiki/Blockchain">blockchain</a> and AI
 </p>
@@ -27,17 +27,22 @@ In my spare time I like coding my own projects, reading about tech (mainly dev, 
 ##### High school (IT Technician):
 In high school I entered computer science where I learned the basics of programming, hardware and to be standalone. I did my first internship where I mostly did maintenance (hardware & software).
 
-##### Bachelor (IT Management):
-After that I started a bachelor degree where I have consolidated my knowledge (e.g. networking, DP) and worked with stuff such as:
-Java, C, C++, a bit of AI (numpy, scikitlearn, pandas, matplotlib), multi-tier apps (Java EE), webdev (JS, PHP, Angular), UML.<br>
+##### Bachelor (IT Management, dev):
+After that I started a bachelor degree where I have consolidated my knowledge (e.g. networking, DP, DSA) and worked with stuff such as:
+Java, C, C++, a bit of ML (numpy, scikitlearn, pandas, matplotlib), multi-tier apps (Java EE), webdev (JS, PHP, Angular), UML.<br>
 Throughout the group work we worked with agile methodology (scrum framework).
+Finally during itnernship/graduation thesis, I worked with Kotlin as$$ Android dev.
 </details>
 
 
 ## 🪛 Tech Stack
 ### Pro
 [![Swift](https://img.shields.io/badge/-Swift-%23F7DF1C?style=flat&logo=swift&labelColor=%23F7DF1C)](https://docs.swift.org)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-FA8B0C?style=flat&logo=kotlin)](https://kotlinlang.org/)
+[![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)](https://www.java.com)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+<br>
+[![MySQL](http://img.shields.io/badge/-MySQL-CC2927?style=flat&logo=mysql&logoColor=ffffff)](https://www.mysql.com)
 
 [![XCode](https://img.shields.io/badge/-XCode-1a8bed?style=flat&logo=XCode&logoColor=ffffff)](https://developer.apple.com/xcode/)
 [![XCode](https://img.shields.io/badge/-Android_studio-48E29B?style=flat&logo=androidStudio&logoColor=ffffff)](https://developer.android.com/studio)
@@ -45,6 +50,7 @@ Throughout the group work we worked with agile methodology (scrum framework).
 [![VSCode](http://img.shields.io/badge/-VS%20Code-2363d5?style=flat&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![macOS](http://img.shields.io/badge/-macOS-ff0044?style=flat&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
+[![linux](http://img.shields.io/badge/-Linux-yellow?style=flat&logo=linux&logoColor=ffffff)](https://www.linux.com/what-is-linux/)
 [![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/)
 
 ### scholar experience
@@ -54,18 +60,17 @@ Throughout the group work we worked with agile methodology (scrum framework).
 [![php](https://img.shields.io/badge/-PHP-7377ae?style=flat&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![angular](https://img.shields.io/badge/-Angular-B32535?style=flat&logo=angular&logoColor=ffffff)](https://angular.io/)
 <br>
-[![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)](https://www.java.com)
 [![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)](https://en.cppreference.com/w/c/language)
 [![C++](https://img.shields.io/badge/-C++-194d89?style=flat&logo=c%2B%2B)](https://isocpp.org/)
 [![Pyhon](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)](https://www.python.org/)
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET)](https://dot.net/)
 [![csharp](https://img.shields.io/badge/-239120?style=flat&logo=csharp)]()
 <br>
-[![MySQL](http://img.shields.io/badge/-MySQL-CC2927?style=flat&logo=mysql&logoColor=ffffff)](https://www.mysql.com)
 [![microsoftsqlserver](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver)](https://www.microsoft.com/sql-server)
 
 ### Beginner
-[![Kotlin](https://img.shields.io/badge/-Kotlin-FA8B0C?style=flat&logo=kotlin)](https://kotlinlang.org/)
+
+[![Golang](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go)](https://go.dev/)
 [![Solidity](https://img.shields.io/badge/-Solidity-grey?style=flat&logo=solidity)](https://docs.soliditylang.org/)
 
 
