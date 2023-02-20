@@ -86,11 +86,7 @@ Finally during itnernship/graduation thesis, I worked with Kotlin as$$ Android d
 <hr>
 
 <h4>PGP fingerprint:</h4>
-<code>
-	<a href="https://www.cedricloneux.me/doc/cedricloneux_pub.pgp">
-	 5967 F2AB E482 6F14 67BB  3F34 E292 4A27 EBE2 37E2
-	</a>
-</code>
+<code><a href="https://www.cedricloneux.me/doc/cedricloneux_pub.pgp">5967 F2AB E482 6F14 67BB  3F34 E292 4A27 EBE2 37E2</a></code>
 <br>
 
 <h4>
